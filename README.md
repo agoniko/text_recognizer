@@ -46,6 +46,6 @@ pression of the look.
 
 
 
-#Note
+# Note
 If you want to try the script you have to install the .exe file of the tesseract library at  https://github.com/UB-Mannheim/tesseract/wiki.
 then put it in the parent folder of your project.
