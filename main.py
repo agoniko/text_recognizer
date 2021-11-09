@@ -19,7 +19,7 @@ class Main:
 
     def __init__(self):
         self.pytesseract = pytesseract.pytesseract
-        self.pytesseract.tesseract_cmd = 'tesseract installation/tesseract.exe'
+        self.pytesseract.tesseract_cmd = '../tesseract installation/tesseract.exe'
         imgs_paths = ['resources/img/img1.jpg','resources/img/img2.jpg','resources/img/img3.png']
         for i in range(len(imgs_paths)):
             text = self.get_text_by_image(imgs_paths[i])
