@@ -1,6 +1,6 @@
 # text_recognizer
 This is my first project of computer vision, here i'm trying to convert a text seen on an image to a string readable by our PC's.
-Unfortunately i thought that the task was harder but the solution was very simple, however this are the results.
+Unfortunately i thought that the task was harder but the solution was very simple, however theese are the results.
 
 You can notice that the library recocnize very well an image with written-on-pc text but performs poorly with some handritten text.
 
