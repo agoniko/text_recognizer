@@ -12,14 +12,20 @@ You can notice that the library recognize very well an image with written-on-pc 
 ![first_text_image](resources/img/img1.jpg)
 
 #### ouput of the script
-![result_first_text](results/res1.txt)
+Ne Stoet With Good
+
+Because all businesses should
+be ses pessoa: bees
 
 
 ### second image
 ![first_text_image](resources/img/img2.jpg)
 
 #### ouput of the script
-![result_first_text](results/res2.txt)
+LA Ss if Wed, nesdoy
+
+We had m pood
+Team building
 
 ## written-on-pc text
 
@@ -27,7 +33,15 @@ You can notice that the library recognize very well an image with written-on-pc 
 ![first_text_image](resources/img/img3.png)
 
 #### ouput of the script
-![result_first_text](results/res1.txt)
+1 Heading on Level 1 (section)
+
+Hello, here is some text without a meaning. This text should show what a
+printed text will look like at this place. If you read this text, you will get no
+information. Really? Is there no information? Is there a difference between
+this text and some nonsense like not at all! A blind text like this gives you
+information about the selected font, how the letters are written and an im-
+
+pression of the look.
 
 
 
